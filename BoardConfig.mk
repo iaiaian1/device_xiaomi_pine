@@ -9,6 +9,10 @@ include device/xiaomi/sdm439-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/xiaomi/pine
 
+# Init
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_pine
+TARGET_RECOVERY_DEVICE_MODULES := libinit_pine
+
 # Kernel
 TARGET_KERNEL_CONFIG := pine-perf_defconfig
 
