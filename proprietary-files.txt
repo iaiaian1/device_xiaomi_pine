@@ -1,5 +1,5 @@
-# Not appended blobs from Xiaomi/pine/pine:10/QKQ1.191014.001/V12.0.2.0.QCMMIXM:user/release-keys
-# olive Package version: Xiaomi/olive/olive:10/QKQ1.191014.001/V12.0.2.0.QCNMIXM:user/release-keys
+# Not appended blobs from Xiaomi/pine/pine:10/QKQ1.191014.001/V12.5.1.0.QCMCNXM:user/release-keys
+# olive Package version: Xiaomi/olive/olive:10/QKQ1.191014.001/V12.5.1.0.QCNCNXM:user/release-keys
 
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
