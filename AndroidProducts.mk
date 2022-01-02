@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2021 The LineageOS Project
+# Copyright (C) 2021 The Project-Awaken Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pine.mk
+    $(LOCAL_DIR)/awaken_pine.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pine-user \
-    lineage_pine-userdebug \
-    lineage_pine-eng
+    awaken_pine-user \
+    awaken_pine-userdebug \
+    awaken_pine-eng
