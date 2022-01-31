@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pine.mk
+    $(LOCAL_DIR)/syberia_pine.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pine-user \
-    lineage_pine-userdebug \
-    lineage_pine-eng
+    syberia_pine-user \
+    syberia_pine-userdebug \
+    syberia_pine-eng
