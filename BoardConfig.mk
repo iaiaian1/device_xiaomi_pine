@@ -25,3 +25,7 @@ VENDOR_SECURITY_PATCH := 2021-07-01
 
 # Inherit from the proprietary version
 include vendor/xiaomi/pine/BoardConfigVendor.mk
+
+# MiuiCamera
+-include vendor/xiaomi/miuicamera/BoardConfigAnx.mk
+
