@@ -33,6 +33,12 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="raven-user 12 SQ1D.220205.004 8151327 release-keys"
+    BOOTIMAGE_BUILD_FINGERPRINT="google/raven/raven:12/SQ1D.220205.004/8151327:user/release-keys"
+    ODM_BUILD_FINGERPRINT="google/raven/raven:12/SQ1D.220205.004/8151327:user/release-keys"
+    PRODUCT_BUILD_FINGERPRINT="google/raven/raven:12/SQ1D.220205.004/8151327:user/release-keys"
+    SYSTEM_BUILD_FINGERPRINT="google/raven/raven:12/SQ1D.220205.004/8151327:user/release-keys"
+    SYSTEM_EXT_BUILD_FINGERPRINT="google/raven/raven:12/SQ1D.220205.004/8151327:user/release-keys"
+    VENDOR_BUILD_FINGERPRINT="google/raven/raven:12/SQ1D.220205.004/8151327:user/release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
 BUILD_FINGERPRINT := "google/raven/raven:12/SQ1D.220205.004/8151327:user/release-keys"
